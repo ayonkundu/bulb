@@ -1,0 +1,32 @@
+			body{
+				margin:0px;
+				padding:0px;
+			}
+			#img_container{
+				height: 300px;
+				width:500px;
+				margin:auto;
+				margin-top:50px;
+			}
+			#off_img{
+				margin-left:100px;
+				height: 300px;
+			}
+			#on_img{
+				height: 300px;
+				margin-left:100px;
+				position: relative;
+				bottom:302;
+				display:none;
+			}
+			#switch{
+				margin: 50px 20px;
+				width: 350px;
+				margin: 50px auto;
+			}
+			#switch button{
+				height:40px;
+				width: 140px;
+				margin-left: 27px;
+				border-radius: 10px;
+			}
